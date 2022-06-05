@@ -7,8 +7,8 @@
    - 🎓 MSc in Business Analytics & Bsc in Statistics
    - 💡 Interested in Data Engineering, Big Data Analytics, Machine Learning
    - :seedling: Currently learning about Apache AirFlow
-   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marios-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marios-agapiou-6a45401b0/)
-
+   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MariosAgapiou-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marios-agapiou-6a45401b0/) 
+<a href="mailto:mariosaga1996@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-mariosaga1996@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariosaga1996@gmail.com"></a>
 ---
 #### :hammer_and_wrench: Languages and Tools :
 
